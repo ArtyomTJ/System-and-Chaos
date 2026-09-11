@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as follows."
+title: "System and Chaos: A Unified Philosophical and Mathematical Framework"
+type: generic
+authors:
+  - family-names: "Larin"
+    given-names: "Artem"
+version: "1.0"
+date-released: 2026-09-12
+url: "https://github.com/ArtyomTJ/System-and-Chaos"
+abstract: "A speculative philosophical and mathematical framework investigating binary structure, System and Chaos, complex representation, quantum-like dynamics, multiverse models, artificial intelligence, and the limits of formal knowledge."
+keywords:
+  - "System and Chaos"
+  - "mathematical physics"
+  - "complex numbers"
+  - "quantum theory"
+  - "binary dynamics"
+  - "philosophy of physics"
+  - "multiverse"
