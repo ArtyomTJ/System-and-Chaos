@@ -1,4 +1,13 @@
 # System and Chaos
+
+<p align="center">
+  <img src="figures/preview.svg" alt="System and Chaos — a philosophical and mathematical framework" width="100%">
+</p>
+
+<p align="center">
+  <strong>A speculative framework exploring the relationship between structure, possibility, information, and the emergence of reality.</strong>
+</p>
+
 ## A Unified Philosophical and Mathematical Framework
 
 **Author:** Artem Larin  
@@ -1188,7 +1197,7 @@ System-and-Chaos/
 │   ├── System-and-Chaos-RU.docx
 │   └── From-5D-Plane-to-Wave-Function-RU.docx
 ├── figures/
-│   └── preview.png
+│   └── preview.svg
 └── LICENSE
 ```
 
